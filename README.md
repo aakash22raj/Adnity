@@ -2,6 +2,7 @@
   
   <h1 align="center">🌿 Adnity - AI Marketing Platform</h1>
 
+<<<<<<< HEAD
   <p align="center">
    A modern AI-powered marketing platform with beautiful UI, animations, and full light/dark mode support.
     <br />   
@@ -12,6 +13,8 @@
 
 ## Project Looks
 
+=======
+>>>>>>> f345038d34654377cbcc2fcc83d38839a59ae72c
 ![Adnity Banner](public/banner.png) <!-- Add your banner image if available -->
 
 
@@ -21,6 +24,7 @@
 - **Modern Glass Morphism UI**
 - **Smooth Animations & Transitions**
 - **Fully Responsive Design**
+- **Interactive FAQ accordion**
 - **Light/Dark Mode Toggle**
 - **Interactive Components**
   - Animated Testimonials Carousel
@@ -37,16 +41,52 @@
 - **Framer Motion** (Animations)
 - **Lucide React** (Icons)
 - **Clerk** (Authentication)
+- **Vercel** (Hosting and CI/CD)
 
-### Backend (if applicable)
-- **Node.js**
-- **Express**
-- **MongoDB** (or your database)
-- **Prisma** (ORM)
 
-## 📦 Installation
+## 🚀 Getting Started
+Follow the below Steps
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/adnity.git
-   cd adnity
+<ol>
+  <li>
+   Clone the repository
+    <br><br>
+
+     git clone https://github.com/aakash22raj/Adnity.git
+     cd Skincare-Assignment
+     
+  </li>
+  
+  <li>Install dependencies 
+    <br><br>
+    
+    npm install
+    
+  or
+  ```
+    yarn install
+  ```
+    
+  </li>
+
+   <li>Install Run the development server
+    <br><br>
+    
+    npm run dev
+    
+  or
+  ```
+   yarn dev
+  ```
+    
+  </li>
+</ol>
+
+Visit http://localhost:3000 to view it in the browser.
+
+
+
+## Contributing
+
+Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. 
+Don't forget to give the project a star! Thanks again!
