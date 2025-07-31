@@ -1,8 +1,19 @@
-# Adnity - AI Marketing Platform
+<div align="center" id='readme-top'>
+  
+  <h1 align="center">🌿 Adnity - AI Marketing Platform</h1>
 
-![Adnity Banner](public/banner.jpg) <!-- Add your banner image if available -->
+  <p align="center">
+   A modern AI-powered marketing platform with beautiful UI, animations, and full light/dark mode support.
+    <br />   
+    <br />
+    <a href="https://adnity.vercel.app">You can see the Demo Live</a>
+  </p>
+</div>
 
-A modern AI-powered marketing platform with beautiful UI, animations, and full light/dark mode support.
+## Project Looks
+
+![Adnity Banner](public/banner.png) <!-- Add your banner image if available -->
+
 
 ## 🚀 Features
 
