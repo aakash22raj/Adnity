@@ -1,6 +1,6 @@
 # Adnity - AI Marketing Platform
 
-![Adnity Banner](public/banner.jpg) <!-- Add your banner image if available -->
+![Adnity Banner](public/banner.png) <!-- Add your banner image if available -->
 
 A modern AI-powered marketing platform with beautiful UI, animations, and full light/dark mode support.
 
