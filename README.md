@@ -13,9 +13,7 @@
 
 ## Project Looks
 
-=======
->>>>>>> f345038d34654377cbcc2fcc83d38839a59ae72c
-![Adnity Banner](public/banner.png) <!-- Add your banner image if available -->
+![Adnity Banner](public/banner.png) 
 
 
 ## 🚀 Features
