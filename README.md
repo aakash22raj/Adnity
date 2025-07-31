@@ -2,7 +2,6 @@
   
   <h1 align="center">🌿 Adnity - AI Marketing Platform</h1>
 
-<<<<<<< HEAD
   <p align="center">
    A modern AI-powered marketing platform with beautiful UI, animations, and full light/dark mode support.
     <br />   
@@ -51,7 +50,7 @@ Follow the below Steps
     <br><br>
 
      git clone https://github.com/aakash22raj/Adnity.git
-     cd Skincare-Assignment
+     cd Adnity
      
   </li>
   
